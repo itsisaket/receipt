@@ -1,0 +1,11 @@
+# Database dumps and local logs
+**/finance.sql
+*.log
+*.log.*
+/payment/protected/runtime/*
+!/payment/protected/runtime/.htaccess
+/receipt2027/protected/runtime/*
+!/receipt2027/protected/runtime/.htaccess
+.env
+.env.*
+!.env.example

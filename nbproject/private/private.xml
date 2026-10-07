@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>receipt2018/protected/controllers/ReceiptController.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>233</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/views/type/List.php</file>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/controllers/ReceiptController.php</file>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/views/receipt/receipt_print_cc.php</file>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/views/site/index.php</file>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/views/receipt/receipt_print_div.php</file>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/views/receipt/receipt_print_c.php</file>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/views/receipt/receipt_print.php</file>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/views/receipt/receipt_print_b.php</file>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/views/layouts/main.php</file>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/views/site/login.php</file>
+            <file>file:/C:/inetpub/wwwroot/webapp/receipt2020/protected/controllers/TypeController.php</file>
+        </group>
+    </open-files>
+</project-private>

